@@ -23,8 +23,8 @@ All solutions are implemented in the `solutions.ts` file.
 
 This repository also includes two blog posts on selected TypeScript topics.
 
-1. [Blog Post 1](type-vs-interface.md)
-2. [Blog Post 2](type-hierarchy.md)
+1. [Type Aliases vs Interface](type-vs-interface.md)
+2. [Type Hierarchy - Any, Unknown, and Never](type-hierarchy.md)
 
 ## Technologies Used
 
